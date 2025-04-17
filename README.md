@@ -13,6 +13,6 @@
 - 📄 Using Google Sheets for formulas, KPIs, and data presentation
 
 ---
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Futuristic World">
+<img src="https://files.gigantic.link/1bcd5ee5-b3a9-4f9c-b0df-b6a6188b8a45/futuristic_globe.png" width="100%" alt="Futuristic Sci-Fi Globe" />
                                    
 
