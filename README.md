@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I'm Alex
 
-<!--
-**AleXcapo7/AleXcapo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying Data & AI Analysis at [Develhope](https://develhope.co)  
+📚 Learning Python, SQL, and Google Sheets for data exploration and reporting  
+🔍 Passionate about data organization, insights, and clean visualizations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 What I'm working on
+
+- 📊 Practicing data extraction and transformation with SQL
+- 🐍 Strengthening my Python fundamentals for data analysis
+- 📄 Using Google Sheets for formulas, KPIs, and data presentation
+
+---
+
