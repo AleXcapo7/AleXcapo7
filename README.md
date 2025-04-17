@@ -13,6 +13,5 @@
 - 📄 Using Google Sheets for formulas, KPIs, and data presentation
 
 ---
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Futuristic Globe" />
                                    
 
