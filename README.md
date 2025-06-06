@@ -14,18 +14,6 @@
 
 ---
 
-👉 [💡 Feel free to explore the project — any feedback or suggestions are welcome!
-
-🏦 Curious about how banks decide who gets a loan?  
-This machine learning project predicts loan approvals based on real customer data.  
-Click to see how data science meets finance — and tell me what you think!](https://github.com/AleXcapo7/CUSTOMER_SCORING1.0)---
-
-## 📚 Currently:
-Graduated from the *Data & AI Analyst course @Develhope (2025)*  
-Project-based learning with real datasets and production-ready solutions.
-
----
-
 ## 🧠 Project Highlight: Customer Scoring 1.0
 Developed a predictive model for loan approval using multiple supervised learning techniques:
 - *Logistic Regression (for inference and prediction)*
