@@ -14,6 +14,10 @@
 
 ---
 
+👉 [Vai al mio progetto "Customer Scoring 1.0"](https://github.com/alexdatahero/customer-scoring)
+
+---
+
 ## 📚 Currently:
 Graduated from the *Data & AI Analyst course @Develhope (2025)*  
 Project-based learning with real datasets and production-ready solutions.
