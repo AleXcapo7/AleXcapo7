@@ -14,8 +14,7 @@
 
 ---
 
-👉 [Vai al mio progetto "Customer Scoring 1.0"](https://github.com/alexdatahero/customer-scoring)
-
+👉 [Vai al mio progetto 'Loan Approval Classification Model "CUSTOMER_SCORING1.0"]([https://github.com/alexdatahero/customer-scoring](https://github.com/AleXcapo7/CUSTOMER_SCORING1.0))
 ---
 
 ## 📚 Currently:
