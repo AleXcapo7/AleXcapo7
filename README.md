@@ -1,24 +1,41 @@
 # 👋 Hi there, I'm Alex
 
----
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-🎓 Currently studying Data & AI Analysis at [Develhope](https://develhope.co)  
-📚 Learning Python, SQL, and Google Sheets for data exploration and reporting  
-🔍 Passionate about data organization, insights, and clean visualizations
-
----
-
-## 📘 What I'm working on
-
-- 📊 Practicing data extraction and transformation with SQL
-- 🐍 Strengthening my Python fundamentals for data analysis
-- 📄 Using Google Sheets for formulas, KPIs, and data presentation
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/-Python-blue)
+![SQL](https://img.shields.io/badge/-SQL-blue)
+![Pandas](https://img.shields.io/badge/-Pandas-150458)
+![NumPy](https://img.shields.io/badge/-NumPy-013243)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-FF8C00)
+![Seaborn](https://img.shields.io/badge/-Seaborn-76b900)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853)
+![Git](https://img.shields.io/badge/-Git-F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-181717)
 
 ---
-                                   
 
+## 📚 Currently:
+Graduated from the *Data & AI Analyst course @Develhope (2025)*  
+Project-based learning with real datasets and production-ready solutions.
+
+---
+
+## 🧠 Project Highlight: Customer Scoring 1.0
+Developed a predictive model for loan approval using multiple supervised learning techniques:
+- *Logistic Regression (for inference and prediction)*
+- *Decision Tree (pruned model)*
+- *Random Forest*
+- *Neural Network (MLP with hidden layers)*  
+Key tasks: Data Cleaning, Feature Engineering, Encoding, Standardization, VIF, SMOTE, Model Evaluation (ROC, Precision, Recall, F1, AUC)
+
+---
+
+## 🔍 What I'm working on:
+- Practicing model comparison and interpretability  
+- Improving feature selection and regularization  
+- Publishing full pipeline with comments and visualizations for educational purposes
+
+---
+
+## ❤️ I’m passionate about:
+Data ethics, interpretability, and using AI to support critical decision-making in business and public systems.
