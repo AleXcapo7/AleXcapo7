@@ -1,5 +1,73 @@
 # 👋 Hi there, I'm Alex
 
+# 🏦 Customer Scoring 1.0 – Credit Approval Prediction with Machine Learning
+
+[🔗 **Live Project on GitHub**](https://github.com/AleXcapo7/CUSTOMER_SCORING1.0)
+
+## 💡 Introduction
+Have you ever wondered how banks decide whether to approve or reject a loan?
+
+**CUSTOMERSCORING1.0** is a complete machine learning project that simulates a real-world credit approval process using real customer data. The goal is to **predict loan approval** based on various personal and financial factors.
+
+---
+
+## 📂 Dataset Description
+The dataset contains information about individuals applying for loans, including:
+- Age
+- Gender
+- Education
+- Employment experience
+- Income
+- Credit score
+- Previous defaults
+- Home ownership
+- Loan amount and intent
+- Loan interest rate
+- Loan percent of income
+- Credit history length
+- Loan status (target: 0 = rejected, 1 = approved)
+
+---
+
+## 🚀 Objectives
+- Perform complete **Exploratory Data Analysis (EDA)**
+- Build and evaluate **supervised learning models**:
+  - ✅ Logistic Regression
+  - ✅ Decision Tree
+  - ✅ Random Forest
+  - 🔜 Neural Networks
+- Apply **feature engineering, encoding, scaling, and class balancing**
+- Evaluate performance using:
+  - Accuracy, Precision, Recall, F1-score
+  - Confusion Matrix
+  - ROC-AUC Curve
+  - Feature Importance
+
+---
+
+## 🧰 Tech Stack
+- Python 3.10+
+- Pandas, NumPy, Matplotlib, Seaborn
+- Scikit-learn, Statsmodels, Imbalanced-learn
+- Jupyter Notebook / VS Code
+
+---
+
+## 📊 Key Concepts Covered
+- Supervised Machine Learning
+- Logistic Regression & inference
+- Decision Trees & Gini Index
+- Random Forest & feature importance
+- SMOTE for class imbalance
+- Metrics for binary classification
+- Residual analysis and outlier detection
+- Train-test split and pipeline design
+
+---
+
+## 📎 Project Structure
+
+
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![SQL](https://img.shields.io/badge/-SQL-blue)
