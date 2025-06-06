@@ -2,7 +2,7 @@
 
 # 🏦 Customer Scoring 1.0 – Credit Approval Prediction with Machine Learning
 
-[🔗 **Live Project on GitHub**](https://github.com/AleXcapo7/CUSTOMER_SCORING1.0)
+[🔗 **Click HERE to explore the full project**](https://github.com/AleXcapo7/CUSTOMER_SCORING1.0)
 
 ## 💡 Introduction
 Have you ever wondered how banks decide whether to approve or reject a loan?
