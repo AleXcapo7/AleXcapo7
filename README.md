@@ -65,8 +65,6 @@ The dataset contains information about individuals applying for loans, including
 
 ---
 
-## 📎 Project Structure
-
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-blue)
